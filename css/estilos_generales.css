@@ -1,0 +1,169 @@
+body {
+    padding-top: 50px;
+}
+
+
+
+.linea-separador {
+    height: 50px;
+    background: url('../img/separador.jpg') center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.banner-index {
+    height: 200px;
+    background: url('../img/banner1.jpg') center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.banner-tecnicos {
+    height: 200px;
+    background: url('../img/banner2.jpg') center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.banner-politicas {
+    height: 200px;
+    background: url('../img/banner-minas.jpg') center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.banner-clientes {
+    height: 200px;
+    background: url('../img/banner3.jpg') center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.banner-control {
+    height: 200px;
+    background: url('../img/banner4.jpg') center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.banner-logistica {
+    height: 200px;
+    background: url('../img/banner5.jpg') center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.banner-administracion {
+    height: 200px;
+    background: url('../img/bannerusuarios.jpg') center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.banner-admint {
+    height: 200px;
+    background: url('../img/bannerusuarios.jpg') center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.autentica
+{
+    margin-top: 30px;
+}
+.justificado
+{
+    text-align: justify;
+}
+.vineta
+{
+    margin-left: 5px;
+}
+.navbar
+{
+    background-color: white;
+}
+.btn-default
+{
+    margin-right: 50px;
+    border: 1px solid #0070af;
+    background-color: #faf4fc;
+    border-radius: 5px;
+    width: 250px;
+    height: 70px;
+}
+.btn-group
+{
+    margin-top: 30px;
+    margin-left: 15px;
+}
+#btn-ingresar{
+    font-size:100%;
+    margin-left: 5px;
+    width:70px;
+    height:25px;   
+}
+#boton1
+{
+    background-color: #f8e0ff;
+}
+#registro
+{
+    margin-top: 100px;
+    margin-left: 15px;
+}
+#recordar
+{
+    margin-top: 50px;
+    margin-left: 15px;
+}
+#teclado
+{
+    margin-top: 50px;
+    margin-left: 15px;
+}
+#user{
+    width: 240px;
+}
+#serviciocliente
+{
+    margin-top: 65px;
+    margin-left: 15px;
+    text-align: justify;
+}
+#ingresar{
+    padding: 5px;
+    margin-left: 5px;
+    width:60px;
+    height:25px;
+
+}
+#clave{
+    text-align: center;
+}
+.left{
+    float: left;
+}
+.right{
+    margin-left: 80px;
+}
+.tagline {
+    margin-left: 15px;
+    text-shadow: 0 0 10px #000;
+    color: #fff;
+}
+.img-center {
+    margin: 0 auto;
+}
+footer {
+    margin: 50px 0;
+}

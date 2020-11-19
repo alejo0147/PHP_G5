@@ -1,0 +1,15 @@
+.cajonListado{
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color: rgba(84,245,221,0.5);
+	border-radius: 15px;
+	padding: 20px;
+}
+.tituloTablaGerentes{
+	width: 100%;
+	text-align: center;
+	margin-bottom: 15px;
+}
